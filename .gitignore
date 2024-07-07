@@ -1,0 +1,11 @@
+.venv
+.idea
+saved
+dataset
+runs
+models
+input_videos
+experiments/temp
+output_video/output_video.avi
+*/__pycache__
+*.pyc
